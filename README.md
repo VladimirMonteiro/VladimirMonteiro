@@ -1,4 +1,4 @@
-## Olá, me chamo Vladimir Monteiro, desenvolvedor fullstack 👋
+## Olá, me chamo Vladimir Monteiro, software engineer 👋
 
 
 
