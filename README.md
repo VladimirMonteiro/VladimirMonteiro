@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
   
   <h1>Vladimir Monteiro</h1>
-  <h3>Software Engineer | Backend Specialist | Full Stack Developer</h3>
+  <h3>Software Engineer | Backend Specialist </h3>
 
   <p>
     Building scalable systems with Java, Spring Boot & modern web technologies
